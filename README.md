@@ -1,4 +1,4 @@
-
+[![Build Status](https://marknzl.visualstudio.com/Space%20Game/_apis/build/status/marknzl.mslearn-tailspin-spacegame-web?branchName=master)](https://marknzl.visualstudio.com/Space%20Game/_build/latest?definitionId=4&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
